@@ -1,0 +1,50 @@
+[
+  {
+    "text": "ok",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "restaurant_search",
+      "confidence": 0.27505379915237427
+    }
+  },
+  {
+    "text": "correct",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "restaurant_search",
+      "confidence": 0.32083430886268616
+    }
+  },
+  {
+    "text": "indeed",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "restaurant_search",
+      "confidence": 0.6530811190605164
+    }
+  },
+  {
+    "text": "high",
+    "intent": "restaurant_search",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.5756012201309204
+    }
+  },
+  {
+    "text": "thanks",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8549522161483765
+    }
+  },
+  {
+    "text": "dear sir",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "restaurant_search",
+      "confidence": 0.4953263998031616
+    }
+  }
+]

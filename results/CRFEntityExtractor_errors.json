@@ -1,0 +1,411 @@
+[
+  {
+    "text": "Please find me a restaurantin bangalore",
+    "entities": [
+      {
+        "start": 30,
+        "end": 39,
+        "value": "bangalore",
+        "entity": "location"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "mumbai",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "mumbai",
+        "entity": "location"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "greater than 700",
+    "entities": [
+      {
+        "start": 0,
+        "end": 16,
+        "value": "high",
+        "entity": "price"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "bengaluru",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "bangalore",
+        "entity": "location"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Can you suggest some good restaurants in kolkata",
+    "entities": [
+      {
+        "start": 41,
+        "end": 48,
+        "value": "kolkata",
+        "entity": "location"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Chinese",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "chinese",
+        "entity": "cuisine"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "show me a mexican place in the Pune",
+    "entities": [
+      {
+        "start": 10,
+        "end": 17,
+        "value": "mexican",
+        "entity": "cuisine"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "value": "Pune",
+        "entity": "location"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "start": 10,
+        "end": 17,
+        "value": "mexican",
+        "entity": "cuisine",
+        "confidence": 0.7682679689494928,
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "chennai indian restaurant",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "chennai",
+        "entity": "location"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "value": "indian",
+        "entity": "cuisine"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "less than 300",
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "value": "low",
+        "entity": "price"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "low",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "low",
+        "entity": "price"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "300-700 range",
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "value": "mid",
+        "entity": "price"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "mid",
+        "entity": "price",
+        "confidence": 0.8382942960488446,
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "can you show me some cheap places to eat",
+    "entities": [
+      {
+        "start": 21,
+        "end": 26,
+        "value": "low",
+        "entity": "price"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Can you suggest some good restaurants in Rishikesh",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "start": 41,
+        "end": 50,
+        "value": "Rishikesh",
+        "entity": "location",
+        "confidence": 0.8839358825547178,
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "dehradun",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "dehradun",
+        "entity": "location"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "show me chines restaurants in the New Delhi",
+    "entities": [
+      {
+        "start": 8,
+        "end": 14,
+        "value": "chinese",
+        "entity": "cuisine"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "value": "Delhi",
+        "entity": "location"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "start": 38,
+        "end": 43,
+        "value": "Delhi",
+        "entity": "location",
+        "confidence": 0.688792056594086,
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "North Indian",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "value": "North Indian",
+        "entity": "cuisine"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "300-700 range",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "mid",
+        "entity": "price"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "value": "mid",
+        "entity": "price",
+        "confidence": 0.7712825265960466,
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "in range of 300 to 700",
+    "entities": [
+      {
+        "start": 0,
+        "end": 22,
+        "value": "mid",
+        "entity": "price"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "high",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "high",
+        "entity": "price"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "<300",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "low",
+        "entity": "price"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "mid",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "mid",
+        "entity": "price"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "i am looking for an south indian",
+    "entities": [
+      {
+        "start": 20,
+        "end": 32,
+        "value": "south indian",
+        "entity": "cuisine"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": ">300",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "mid",
+        "entity": "price"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "in mumbaim",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "start": 3,
+        "end": 10,
+        "value": "mumbaim",
+        "entity": "location",
+        "confidence": 0.7380763274102403,
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "can you book a table in lucknow in a moderate price range with mexican food.",
+    "entities": [
+      {
+        "start": 24,
+        "end": 31,
+        "value": "lucknow",
+        "entity": "location"
+      },
+      {
+        "start": 37,
+        "end": 45,
+        "value": "mid",
+        "entity": "price"
+      },
+      {
+        "start": 63,
+        "end": 70,
+        "value": "mexican",
+        "entity": "cuisine"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "start": 63,
+        "end": 70,
+        "value": "mexican",
+        "entity": "cuisine",
+        "confidence": 0.9145952965232803,
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Delhi",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "value": "Delhi",
+        "entity": "location"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "hyderabad",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "hyderabad",
+        "entity": "location"
+      }
+    ],
+    "predicted_entities": []
+  }
+]

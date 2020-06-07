@@ -1,0 +1,44 @@
+{
+  "greet": {
+    "precision": 0.9166666666666666,
+    "recall": 0.9166666666666666,
+    "f1-score": 0.9166666666666666,
+    "support": 12
+  },
+  "deny": {
+    "precision": 0.9090909090909091,
+    "recall": 1.0,
+    "f1-score": 0.9523809523809523,
+    "support": 10
+  },
+  "affirm": {
+    "precision": 1.0,
+    "recall": 0.7333333333333333,
+    "f1-score": 0.846153846153846,
+    "support": 15
+  },
+  "restaurant_search": {
+    "precision": 0.9420289855072463,
+    "recall": 0.9848484848484849,
+    "f1-score": 0.962962962962963,
+    "support": 66
+  },
+  "micro avg": {
+    "precision": 0.941747572815534,
+    "recall": 0.941747572815534,
+    "f1-score": 0.941747572815534,
+    "support": 103
+  },
+  "macro avg": {
+    "precision": 0.9419466403162056,
+    "recall": 0.9087121212121212,
+    "f1-score": 0.919541107041107,
+    "support": 103
+  },
+  "weighted avg": {
+    "precision": 0.9443186614989063,
+    "recall": 0.941747572815534,
+    "f1-score": 0.9395308036084735,
+    "support": 103
+  }
+}
